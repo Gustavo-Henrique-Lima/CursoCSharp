@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*
+using System;
+using System.Globalization;
 
 namespace CursoC
 {
@@ -12,7 +14,7 @@ namespace CursoC
             long n4=9223372036854775806L;//Min -9223372036854775808
             byte n5=255;//Min 0
             float n6=4.5f;
-            double n7=4.5;
+            double n7=4.54787;
             bool completo=true;
             char genero='M';
             string nome="Gustavo";//Não é considerado primitivo em C#
@@ -22,7 +24,9 @@ namespace CursoC
             Console.WriteLine(n4);
             Console.WriteLine(n5);
             Console.WriteLine(n6);
-            Console.WriteLine(n7);
+            Console.WriteLine(n7.ToString("F2"));
+            Console.WriteLine(n7.ToString("F3"));
+            Console.WriteLine(n7.ToString("F2",CultureInfo.InvariantCulture));
             Console.WriteLine(completo);
             Console.WriteLine(genero);
             Console.WriteLine(nome);
@@ -34,4 +38,4 @@ namespace CursoC
             Console.WriteLine(n10);
         }
     }
-}
+}*/
