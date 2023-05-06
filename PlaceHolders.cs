@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 
 namespace CursoC
 {
@@ -15,4 +16,4 @@ namespace CursoC
             Console.WriteLine(nome+"tem "+idade+" anos e tem saldo igual a "+saldo.ToString("F2")+" reais");
         }
     }
-}
+}*/
