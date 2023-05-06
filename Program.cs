@@ -26,6 +26,12 @@ namespace CursoC
             Console.WriteLine(completo);
             Console.WriteLine(genero);
             Console.WriteLine(nome);
+            int n8=int.MinValue;
+            long n9=long.MinValue;
+            decimal n10=decimal.MaxValue;
+            Console.WriteLine(n8);
+            Console.WriteLine(n9);
+            Console.WriteLine(n10);
         }
     }
 }
