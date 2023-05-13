@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 using System.Globalization;
 
 namespace CursoC
@@ -29,4 +30,4 @@ namespace CursoC
             Console.WriteLine("Separador decimal invariant culture: "+medida.ToString("F3",CultureInfo.InvariantCulture));
         }
     }
-}
+}*/
