@@ -1,0 +1,30 @@
+D:\CursoC#\Exercicios Sequencial\bin\Debug\net7.0\ExerciciosSequencias.exe
+D:\CursoC#\Exercicios Sequencial\bin\Debug\net7.0\ExerciciosSequencias.deps.json
+D:\CursoC#\Exercicios Sequencial\bin\Debug\net7.0\ExerciciosSequencias.runtimeconfig.json
+D:\CursoC#\Exercicios Sequencial\bin\Debug\net7.0\ExerciciosSequencias.dll
+D:\CursoC#\Exercicios Sequencial\bin\Debug\net7.0\ExerciciosSequencias.pdb
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.csproj.AssemblyReference.cache
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.AssemblyInfoInputs.cache
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.AssemblyInfo.cs
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.csproj.CoreCompileInputs.cache
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.dll
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\refint\ExerciciosSequencias.dll
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.pdb
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ExerciciosSequencias.genruntimeconfig.cache
+D:\CursoC#\Exercicios Sequencial\obj\Debug\net7.0\ref\ExerciciosSequencias.dll
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.csproj.AssemblyReference.cache
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.AssemblyInfoInputs.cache
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.AssemblyInfo.cs
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.csproj.CoreCompileInputs.cache
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.dll
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\refint\ExerciciosSequencias.dll
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.pdb
+D:\CursoC#\ExerciciosSequenciais\bin\Debug\net7.0\ExerciciosSequencias.exe
+D:\CursoC#\ExerciciosSequenciais\bin\Debug\net7.0\ExerciciosSequencias.deps.json
+D:\CursoC#\ExerciciosSequenciais\bin\Debug\net7.0\ExerciciosSequencias.runtimeconfig.json
+D:\CursoC#\ExerciciosSequenciais\bin\Debug\net7.0\ExerciciosSequencias.dll
+D:\CursoC#\ExerciciosSequenciais\bin\Debug\net7.0\ExerciciosSequencias.pdb
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ExerciciosSequencias.genruntimeconfig.cache
+D:\CursoC#\ExerciciosSequenciais\obj\Debug\net7.0\ref\ExerciciosSequencias.dll
